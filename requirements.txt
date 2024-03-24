@@ -1,0 +1,5 @@
+telebot
+pyTelegramBotAPI
+openai
+django
+faker
